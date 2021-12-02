@@ -1,2 +1,2 @@
 # SpaceGame
-C# console game
+C# console Space Adventure game
